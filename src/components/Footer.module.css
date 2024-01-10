@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    background: linear-gradient(92.34deg, #021024 35.98%, #021024 71.7%, rgba(2, 16, 36, 0.92) 101.86%);
+    color: white;
+    padding: 60px;
+}
+.socials{
+    display: flex;
+    gap: 10px;
+}
+.foot{
+    background: white;
+
+}
